@@ -1,3 +1,5 @@
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
+
 #  package laravel-search
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/osamaalmamri/laravel-search.svg?style=flat-square)](https://packagist.org/packages/osamaalmamri/laravel-search)
